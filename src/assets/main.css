@@ -1,0 +1,11 @@
+:root {
+    --main-bg-color: rgb(39, 40, 44);
+    --main-font-color: rgb(244, 244, 244);
+    --main-font-secondary: rgba(255, 255, 255, 0.75);
+    --main-kotlin-color: #7F52FF
+}
+
+body {
+    background: var(--main-bg-color);
+    color: var(--main-font-color);
+}

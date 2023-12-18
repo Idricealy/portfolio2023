@@ -1,0 +1,15 @@
+{
+  "common" : {
+    "appName" : "Ealy",
+    "show-project" : "Voir les projets"
+  },
+  "home" : {
+    "navbar": {
+      "projects" : "Projets",
+      "techno": "Technologies",
+      "about": "About"
+    },
+    "btn-show" : "Voir les projets",
+    "solution": "La solution pour vos projets informatique."
+  }
+}

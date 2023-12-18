@@ -1,0 +1,14 @@
+{
+  "common" : {
+    "show-project" : "Show projects"
+  },
+  "home" : {
+    "navbar": {
+      "projects" : "Projects",
+      "techno": "Technology",
+      "about": "About"
+    },
+    "btn-show": "View projects",
+    "solution": "The solution for your IT projects."
+  }
+}
